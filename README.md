@@ -1,1 +1,1 @@
-# JAG-Design-System
+# JAG Aesthetic Digital Design System
